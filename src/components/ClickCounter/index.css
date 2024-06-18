@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.countainer{
+    display: flex;
+}
+
+.card{
+     display: flex;
+
+}
